@@ -4,13 +4,13 @@ Welcome to your `Basic Node API Repository`. Use this to start your own Greenfie
 
 This repository assumes a handful of industry practices and standards. We strive to keep you on the bleeding edge of the industry and as a result, we have made some opinions for you so that you don't have to; you're welcome.
 
-Read more at <https://docs.labs.lambdaschool.com/labs-api-strarter/>
+Read more at [https://bloomtechlabs.gitbook.io/api/](https://bloomtechlabs.gitbook.io/api/)
 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=labs-api-starter&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=labs-api-starter)
 
 ## Requirements
 
-Labs teams must follow all [Labs Engineering Standards](https://labs.lambdaschool.com/topics/node-js/).
+Labs teams must follow all [Labs Engineering Standards](https://bloomtechlabs.gitbook.io/standards/).
 
 
 ## Getting Started
